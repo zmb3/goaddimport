@@ -1,0 +1,7 @@
+// Package main is a test.
+package main
+
+import "github.com/someuser/somepkg"
+
+func main() {
+}

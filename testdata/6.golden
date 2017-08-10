@@ -1,0 +1,14 @@
+package main
+
+import (
+	"fmt"
+	"io"
+	"io/ioutil"
+
+	"github.com/someuser/somepkg"
+	"github.com/user1/pkg1"
+	"github.com/user2/pkg2"
+)
+
+func main() {
+}

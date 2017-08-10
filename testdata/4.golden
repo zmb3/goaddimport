@@ -1,0 +1,12 @@
+package main
+
+import (
+	"bytes"
+	"fmt"
+
+	"github.com/someuser/somepkg"
+)
+
+func main() {
+	fmt.Println(&bytes.Buffer{})
+}
